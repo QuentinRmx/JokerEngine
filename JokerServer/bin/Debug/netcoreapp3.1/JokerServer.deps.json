@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JokerServer/1.0.0": {
+        "dependencies": {
+          "JokerCore": "1.0.0"
+        },
+        "runtime": {
+          "JokerServer.dll": {}
+        }
+      },
+      "JokerCore/1.0.0": {
+        "runtime": {
+          "JokerCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JokerServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JokerCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\_dev\C#\JokerServer\JokerCore\bin\Debug\net472\JokerCore.dll
+D:\_dev\C#\JokerServer\JokerCore\bin\Debug\net472\JokerCore.pdb
+D:\_dev\C#\JokerServer\JokerCore\bin\Debug\net472\UnityEngine.dll
+D:\_dev\C#\JokerServer\JokerCore\bin\Debug\net472\UnityEngine.xml
+D:\_dev\C#\JokerServer\JokerCore\obj\Debug\net472\JokerCore.csprojAssemblyReference.cache
+D:\_dev\C#\JokerServer\JokerCore\obj\Debug\net472\JokerCore.AssemblyInfoInputs.cache
+D:\_dev\C#\JokerServer\JokerCore\obj\Debug\net472\JokerCore.AssemblyInfo.cs
+D:\_dev\C#\JokerServer\JokerCore\obj\Debug\net472\JokerCore.csproj.CoreCompileInputs.cache
+D:\_dev\C#\JokerServer\JokerCore\obj\Debug\net472\JokerCore.csproj.CopyComplete
+D:\_dev\C#\JokerServer\JokerCore\obj\Debug\net472\JokerCore.dll
+D:\_dev\C#\JokerServer\JokerCore\obj\Debug\net472\JokerCore.pdb

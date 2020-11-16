@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\quent\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\quent\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_JokerServer.2045088814.00" t="ExcludeRecursive" />
+    <e p="C:\Users\quent\AppData\Roaming\JetBrains\Rider2020.2\scratches" t="IncludeRecursive" />
+    <e p="D:\_dev\C#\JokerServer" t="IncludeFlat">
+      <e p="JokerCore" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Bridges" t="Include">
+          <e p="IBridge.cs" t="Include" />
+        </e>
+        <e p="Engine" t="Include">
+          <e p="Cards" t="Include">
+            <e p="Behaviors" t="Include">
+              <e p="AbstractBehavior.cs" t="Include" />
+              <e p="Alive" t="Include">
+                <e p="AbstractAliveBehavior.cs" t="Include" />
+                <e p="AliveBehavior.cs" t="Include" />
+                <e p="NotAliveBehavior.cs" t="Include" />
+              </e>
+              <e p="BehaviorFactory.cs" t="Include" />
+              <e p="IBehavior.cs" t="Include" />
+              <e p="Targetable" t="Include">
+                <e p="AbstractTargetableBehavior.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Card.cs" t="Include" />
+            <e p="CardEffects" t="Include">
+              <e p="AbstractCardEffect.cs" t="Include" />
+              <e p="CardEffectAttack.cs" t="Include" />
+              <e p="CardEffectCriticalStrike.cs" t="Include" />
+              <e p="CardEffectFactory.cs" t="Include" />
+              <e p="CardEffectHeal.cs" t="Include" />
+              <e p="CardEffectIdle.cs" t="Include" />
+              <e p="CardEffectNone.cs" t="Include" />
+              <e p="CardEffectPool.cs" t="Include" />
+              <e p="ICardEffect.cs" t="Include" />
+            </e>
+            <e p="CardFactory.cs" t="Include" />
+            <e p="CardInfo.cs" t="Include" />
+            <e p="CollectionManager.cs" t="Include" />
+            <e p="Deck.cs" t="Include" />
+            <e p="ECardCategory.cs" t="Include" />
+            <e p="IPlayable.cs" t="Include" />
+            <e p="Targets" t="Include">
+              <e p="ETargetSelector.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Communication" t="Include">
+            <e p="EMessageType.cs" t="Include" />
+            <e p="IAction.cs" t="Include" />
+            <e p="IResult.cs" t="Include" />
+            <e p="JokerClient.cs" t="Include" />
+            <e p="NetworkMessage.cs" t="Include" />
+          </e>
+          <e p="JsonModels" t="Include">
+            <e p="CollectionJson.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="BoardManager.cs" t="Include" />
+            <e p="CombatManager.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+          </e>
+          <e p="Player.cs" t="Include" />
+          <e p="Utils" t="Include">
+            <e p="CardArrayExtensions.cs" t="Include" />
+            <e p="Configuration.cs" t="Include" />
+            <e p="Coord.cs" t="Include" />
+            <e p="InstanceIdManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="JokerCore.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net472" t="Include">
+              <e p="JokerCore.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="JokerServer" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="JokerServer.cs" t="Include" />
+        <e p="JokerServer.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="JokerServer.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="JokerServer.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
